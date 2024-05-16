@@ -1,5 +1,7 @@
+<div style="width:100%;overflow:hidden;">
+  <marquee scrollamount="10"><h1># Welcome to Steven's GitHub Profile! 👋</h1></marquee>
+</div>
 
-# Welcome to Steven's GitHub Profile! 👋
 
 Hey there! I'm Steven, a passionate student who loves to play basketball. Welcome to my GitHub profile where you'll find a mix of my projects, experiments, and contributions.
 
