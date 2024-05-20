@@ -7,7 +7,7 @@ Hey there! I'm Steven, a passionate student who loves to play basketball. Welcom
 
 - 🌟 <>Code to the world.</>
 - 💼 I really like Web development pretty much.
-- 🚀 I have created my portfolio (https://stevenkariuki.github.io/portfolio_Steven/)
+- 🚀 I have created my portfolio (https://stevenkariuki.github.io/mysite/)
 - 🎓 I'm a student in Murang'a University doing Computer Science.
 
 
@@ -16,7 +16,7 @@ Hey there! I'm Steven, a passionate student who loves to play basketball. Welcom
 
 - 📫 Reach me at steven.kariuki9@outlook.com
 - 💬 Connect with me on Instagram - VI_brant_
-- 🌐 Visit my Personal Website for more insights into my work. (https://stevenkariuki.github.io/portfolio_Steven/)
+- 🌐 Visit my Personal Website for more insights into my work. (https://stevenkariuki.github.io/mysite/)
 
 ## Support Me ☕
 
