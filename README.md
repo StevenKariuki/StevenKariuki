@@ -16,6 +16,7 @@ Hey there! I'm Steven, a passionate Computer Science student and basketball enth
 - 💬 **Instagram:** [VI_brant_](https://instagram.com/VI_brant_)
 - **Twitter** [Vi_brant_](.com/Vi_brant_)
 - 🌐 **Website:** [Steven Kariuki's Portfolio](https://stevenkariuki.github.io/mysite/)
+- 🌐 **LinkedIn:** [Steven Muiruri](https://www.linkedin.com/in/steven-muiruri-11b73a263/)
 
 ## Support Me ☕ 
 
