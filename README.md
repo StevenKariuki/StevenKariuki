@@ -1,4 +1,4 @@
-# Welcome to Steven's GitHub Profile! 👋
+# Olaa, Welcome to Steven's GitHub Profile! 👋
 
 Hey there! I'm Steven, a passionate Computer Science student and basketball enthusiast. Welcome to my GitHub profile! Here, you'll discover a mix of my projects, experiments, and contributions.
 
@@ -22,6 +22,10 @@ Hey there! I'm Steven, a passionate Computer Science student and basketball enth
 
 If you find my projects or contributions helpful, consider [buying me a coffee](#)! Your support fuels my coding adventures! 😊
 Code to the World.
+
+Si te resultan útiles mis proyectos o contribuciones, ¡considera [invitarme a un café](#)! ¡Tu apoyo impulsa mis aventuras de programación! 😊
+Programa para el mundo.
+
 ## Thanks for Visiting! 🙌
 
 Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out with questions, suggestions, or collaboration ideas. Let's create something amazing together! 🚀
