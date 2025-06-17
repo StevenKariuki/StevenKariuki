@@ -1,7 +1,11 @@
 # Olaa, Welcome to Steven's GitHub Profile! 👋
 
-Hey there! I'm Steven, a passionate Computer Science student and basketball enthusiast. Welcome to my GitHub profile! Here, you'll discover a mix of my projects, experiments, and contributions.
+🏀 **Hey there, I’m Steven Mururi**
+_Code slinger. Cloud dreamer. Infrastructure fixer._
 
+I’m a Computer Science student who's dead serious about using tech to solve real problems — like broken roads and complex systems. By day, I build apps that actually matter. By night, I’m either deep in code or hitting 3-pointers on the court.
+
+This GitHub is where my ideas come to life — from AI-powered pothole detection to experimental side quests. If it makes life easier or smarter, you’ll probably find it here.
 ## About Me ℹ️
 
 - 🌟 **Code to the world.**
