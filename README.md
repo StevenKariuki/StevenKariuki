@@ -1,35 +1,96 @@
-# Olaa, Welcome to Steven's GitHub Profile! 👋
+# Heyyy, Welcome to Vi_brant's GitHub Profile! 👋
 
-🏀 **Hey there, I’m Steven Mururi**
-_Code slinger. Cloud dreamer. Infrastructure fixer._
+## 🧑‍💻 Steven Mururi
 
-I’m a Computer Science student who's dead serious about using tech to solve real problems — like broken roads and complex systems. By day, I build apps that actually matter. By night, I’m either deep in code or hitting 3-pointers on the court.
+*Code slinger. Cloud dreamer. Infrastructure fixer.*
 
-This GitHub is where my ideas come to life — from AI-powered pothole detection to experimental side quests. If it makes life easier or smarter, you’ll probably find it here.
-## About Me ℹ️
+I’m a Computer Science student passionate about building tech that solves real-world problems — from AI-powered road analysis systems to smart automation tools.
 
-- 🌟 **Code to the world.**
-- 💻 I'm deeply interested in **Web Development** and continuously working to refine my skills.
-- 🚀 Check out my portfolio: [Steven Kariuki's Portfolio](https://stevenkariuki.github.io/mysite/)
-- 🎓 Currently pursuing a **Computer Science** degree at **Murang'a University**.
--    In the journey to be a frontEnd Developer.
+Most of my projects revolve around:
 
-## Let's Connect 🌐
+* 🌍 Solving local problems using technology
+* 🤖 AI & Computer Vision
+* 🌐 Web Development
+* ☁️ Cloud & Infrastructure
+* 📱 Modern Frontend Experiences
 
-- 📫 **Email:** [steven.kariuki9@outlook.com](mailto:steven.kariuki9@outlook.com)
-- 💬 **Instagram:** [VI_brant_](https://instagram.com/VI_brant_)
-- **Twitter** [Vi_brant_](.com/Vi_brant_)
-- 🌐 **Website:** [Steven Kariuki's Portfolio](https://stevenkariuki.github.io/mysite/)
-- 🌐 **LinkedIn:** [Steven Muiruri](https://www.linkedin.com/in/steven-muiruri-11b73a263/)
+When I’m not coding, I’m probably:
 
-## Support Me ☕ 
+* 🏀 Playing basketball
+* 📈 Learning trading & market analysis
+* 🎧 Vibing to music while debugging something that broke for no reason
 
-If you find my projects or contributions helpful, consider [buying me a coffee](#)! Your support fuels my coding adventures! 😊
-Code to the World.
+This GitHub is basically my digital workshop — experiments, projects, ideas, late-night builds, and everything in between.
 
-Si te resultan útiles mis proyectos o contribuciones, ¡considera [invitarme a un café](#)! ¡Tu apoyo impulsa mis aventuras de programación! 😊
-Programa para el mundo.
+---
 
-## Thanks for Visiting! 🙌
+# 🚀 About Me
 
-Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out with questions, suggestions, or collaboration ideas. Let's create something amazing together! 🚀
+* 🌟 **Code to the world**
+* 💻 Focused on becoming a strong **Frontend Developer**
+* 🧠 Interested in AI, smart systems, and scalable applications
+* 🎓 Pursuing a **Computer Science Degree** at **Murang'a University**
+* 📈 Recently started exploring the world of **Forex & Trading**
+* 🔥 Always building. Always learning.
+
+---
+
+# 🛠️ Current Projects
+
+### 🚧 Pothole Spotter
+
+AI-powered pothole detection and road monitoring system using:
+
+* Azure Custom Vision
+* React
+* Node.js
+* Maps & Geolocation
+
+### ♻️ Smart Waste
+
+Smart waste detection & autonomous cleaning system powered by AI and live camera analysis.
+
+### 🎨 Vi_brant Designs
+
+Building modern digital experiences, branding, and software solutions.
+
+---
+
+# 🌐 Connect With Me
+
+* 📫 **Email:** [steven.kariuki9@outlook.com](mailto:steven.kariuki9@outlook.com)
+* 📸 **Instagram:** [@VI_brant_](https://instagram.com/VI_brant_)
+* 🐦 **Twitter/X:** [@Vi_brant_](https://twitter.com/Vi_brant_)
+* 💼 **LinkedIn:** [Steven Muiruri](https://www.linkedin.com/in/steven-muiruri-11b73a263/)
+* 🌍 **Portfolio:** [https://stevenkariuki.github.io/mysite/](https://stevenkariuki.github.io/mysite/)
+
+---
+
+# ⚡ Tech Stack
+
+```txt
+Frontend: React • JavaScript • HTML • CSS
+Backend: Node.js • Express
+Database: MySQL
+Cloud & AI: Azure Custom Vision
+Tools: Git • GitHub • VS Code • Postman
+```
+
+---
+
+# ☕ Support Me
+
+If you enjoy my projects or find them useful, feel free to support the journey someday 😄
+
+Every late-night debugging session runs better with coffee.
+
+---
+
+# 🙌 Thanks for Visiting
+
+Thanks for checking out my profile.
+
+Feel free to explore my repositories, open issues, fork projects, or connect with me.
+Always down to collaborate, build cool stuff, and learn new things.
+
+### 🚀 Code to the World.
