@@ -1,72 +1,65 @@
-# Heyyy, Welcome to Vi_brant's GitHub Profile! 👋
+# Heyyy, welcome to Vi_brant’s GitHub 👋
 
-## 🧑‍💻 Steven Mururi
+## Steven Muiruri
 
-*Code slinger. Cloud dreamer. Infrastructure fixer.*
+*Product-minded builder. Frontend-focused engineer. Systems thinker in progress.*
 
-I’m a Computer Science student passionate about building tech that solves real-world problems — from AI-powered road analysis systems to smart automation tools.
+I build software that actually solves real problems — not just “projects for GitHub”.
 
-Most of my projects revolve around:
-
-* 🌍 Solving local problems using technology
-* 🤖 AI & Computer Vision
-* 🌐 Web Development
-* ☁️ Cloud & Infrastructure
-* 📱 Modern Frontend Experiences
-
-When I’m not coding, I’m probably:
-
-* 🏀 Playing basketball
-* 📈 Learning trading & market analysis
-* 🎧 Vibing to music while debugging something that broke for no reason
-
-This GitHub is basically my digital workshop — experiments, projects, ideas, late-night builds, and everything in between.
+Right now I’m shaping myself into a **Product Engineer**:
+someone who understands users, designs solutions, writes code, and works closely with developers to ship real products.
 
 ---
 
-# 🚀 About Me
+## 🧭 What I’m about
 
-* 🌟 **Code to the world**
-* 💻 Focused on becoming a strong **Frontend Developer**
-* 🧠 Interested in AI, smart systems, and scalable applications
-* 🎓 Pursuing a **Computer Science Degree** at **Murang'a University**
-* 📈 Recently started exploring the world of **Forex & Trading**
-* 🔥 Always building. Always learning.
+I’m not stuck in one lane. I move across:
+
+- 🌍 Building tech for real-world problems (especially in Kenya & beyond)
+- 🎨 Frontend engineering & UI/UX thinking
+- 🤖 AI & Computer Vision systems
+- 🌐 Web applications that feel clean and usable
+- ☁️ Cloud-powered solutions (Azure focused)
+- 🧠 Product thinking — how things should actually work, not just how they code
 
 ---
 
-# 🛠️ Current Projects
+## 🧠 Current focus
 
-### 🚧 Pothole Spotter
+Becoming dangerous in the **Frontend + Product Engineering space**:
 
-AI-powered pothole detection and road monitoring system using:
+- Understanding code deeply (not just writing it)
+- Translating ideas → features → shipped products
+- Working closely with devs like a PM who actually gets it
+- Building strong UI systems and user experiences
+- Learning how real products are designed, built, and scaled
 
-* Azure Custom Vision
-* React
-* Node.js
-* Maps & Geolocation
+---
+
+## 🚧 Projects I’m building
+
+### 🛣️ Pothole Spotter
+AI-powered road monitoring system for detecting and analyzing potholes.
+
+**Stack:**
+Azure Custom Vision • React • Node.js • MySQL • Leaflet Maps
+
+---
 
 ### ♻️ Smart Waste
+AI-based waste detection system designed for smart cities and automation systems.
 
-Smart waste detection & autonomous cleaning system powered by AI and live camera analysis.
+**Focus:**
+Computer Vision • Real-time detection • Smart infrastructure concepts
+
+---
 
 ### 🎨 Vi_brant Designs
-
-Building modern digital experiences, branding, and software solutions.
-
----
-
-# 🌐 Connect With Me
-
-* 📫 **Email:** [steven.kariuki9@outlook.com](mailto:steven.kariuki9@outlook.com)
-* 📸 **Instagram:** [@VI_brant_](https://instagram.com/VI_brant_)
-* 🐦 **Twitter/X:** [@Vi_brant_](https://twitter.com/Vi_brant_)
-* 💼 **LinkedIn:** [Steven Muiruri](https://www.linkedin.com/in/steven-muiruri-11b73a263/)
-* 🌍 **Portfolio:** [https://stevenkariuki.github.io/mysite/](https://stevenkariuki.github.io/mysite/)
+A creative + technical studio direction for building digital products, branding, and web experiences.
 
 ---
 
-# ⚡ Tech Stack
+## ⚙️ Tech Stack
 
 ```txt
 Frontend: React • JavaScript • HTML • CSS
@@ -74,23 +67,24 @@ Backend: Node.js • Express
 Database: MySQL
 Cloud & AI: Azure Custom Vision
 Tools: Git • GitHub • VS Code • Postman
-```
+🧠 Outside the code
 
----
+When I’m not building:
 
-# ☕ Support Me
+🏀 Basketball runs
+📊 Watching markets & learning trading (side quest, not the main story)
+🎧 Music + debugging sessions that last too long
+💭 Thinking about product ideas that could actually ship
+🌐 Connect with me
+📫 Email: steven.kariuki9@outlook.com
+📸 Instagram: @VI_brant_
+🐦 X (Twitter): @Vi_brant_
+💼 LinkedIn: Steven Muiruri
+🌍 Portfolio: https://stevenkariuki.github.io/mysite/
+☕ Build mode
 
-If you enjoy my projects or find them useful, feel free to support the journey someday 😄
+If it solves a real problem, I’m building it.
 
-Every late-night debugging session runs better with coffee.
+No noise. No fluff. Just shipping.
 
----
-
-# 🙌 Thanks for Visiting
-
-Thanks for checking out my profile.
-
-Feel free to explore my repositories, open issues, fork projects, or connect with me.
-Always down to collaborate, build cool stuff, and learn new things.
-
-### 🚀 Code to the World.
+🚀 Code to the world
